@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "mySSID"; // Replace with your Wi-Fi SSID
-const char* pass = "myPass"; // Replace with your Wi-Fi Password
+const char* ssid = "kylogav"; 
+const char* pass = "09197"; 
 const char* url = "http://example.com"; // Replace with your target URL
 
 void setup() {
